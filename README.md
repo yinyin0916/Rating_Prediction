@@ -7,8 +7,8 @@ This project predicts customers' clothes ratings from data of clothes measuremen
 
 ## Roadmap
 
-- Rating Prediction.ipynb: code for exploratory data analysis, data wrangling and machine learning models to predict customer ratings
-- Rating Prediction Report.pdf: report that discusses the methods, models, and results
+- Rating_Prediction.ipynb: code for exploratory data analysis, data wrangling and machine learning models to predict customer ratings
+- Rating_Prediction_Report.pdf: report that discusses the methods, models, and results
 
 ## Acknowledgements
 
